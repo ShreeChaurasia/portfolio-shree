@@ -16,17 +16,11 @@ export default function Page() {
                 <div className="grid md:grid-cols-2 gap-8 mx-auto lg:grid-cols-2 ">
 
                     <p className="mt-4 text-zinc-400">
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit tempora reiciendis recusandae
-                        sapiente fuga tenetur ad quidem laudantium mollitia nam impedit, vero aliquid, officiis
-                        possimus odit veniam tempore quibusdam consequuntur. Lorem ipsum dolor sit amet consectetur
-                        adipisicing elit. Cupiditate voluptate quisquam eaque quaerat esse! Optio, minus ab.
-                        Molestiae corporis quis nulla maxime aperiam tenetur iste quidem fugit inventore beatae,
-                        quam sapiente, pariatur at modi exercitationem, minima velit blanditiis accusamus quia mollitia
-                        nemo? Unde, deleniti labore rem necessitatibus vero doloribus eum facilis? Tempora velit vero
-                        vel doloribus suscipit alias aspernatur, accusamus laborum. Praesentium iure saepe, nulla,
-                        autem sapiente earum vel nisi tempora animi ipsa eveniet nobis ipsam quaerat quidem ullam.
-                        Dolorum aperiam consequuntur praesentium architecto quis itaque perferendis, ab iste similique
-                        eos nesciunt aliquam velit et omnis unde quo, voluptatum reiciendis.
+                    I'm Shree Chaurasia, a recent graduate with a degree in B.Tech(CSE), driven by a deep passion for software development. Throughout my academic journey, I've gained expertise in programming fields like Core Java, Frontend Frameworks along with some Backend Frameworks and honed my skills in data structures, algorithms, and software development methodologies.
+                    What sets me apart is my commitment to ongoing learning and adaptability. I thrive in dynamic, fast-paced environments and eagerly embrace emerging technologies and industry trends.
+                    Effective communication and teamwork are paramount to me. I believe in the power of clear, open dialogue, which is crucial when working in cross-functional teams or explaining complex technical concepts to non-technical stakeholders.
+                    I'm currently seeking opportunities to apply my skills to real-world projects and make a meaningful impact. If you're looking for a dedicated, adaptable developer, I'd love to discuss how I can contribute to your team or project. Feel free to contact me with me on [LinkedIn/GitHub] .
+                    Thank you for taking the time to learn more about me. I'm excited about the opportunities ahead and the potential to work together on exciting projects.
                     </p>
 
                     <div className='relative h-500 mb-4 sm:mb-0'>
